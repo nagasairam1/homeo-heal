@@ -1,0 +1,1 @@
+export default { primary: '#4CAF50', background: '#F8F8F8', textDark: '#222222', card: '#FFFFFF', danger: '#E53935' };
